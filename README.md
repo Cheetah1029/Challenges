@@ -52,7 +52,7 @@ To run this contract, you can use Remix, an online Solidity IDE. Follow the step
 
 ## Authors
 
-Metacrafter Chetan
+MetacrafterChetan
 
 ## License
 
